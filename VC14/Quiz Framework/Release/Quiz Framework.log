@@ -1,0 +1,46 @@
+﻿  main.cpp
+g:\我的雲端硬碟\junior\cg\107062309_as1\107062309_as1\source\main.cpp(133): warning C4305: '=': 從 'double' 轉換為 'GLfloat'，是由較大的類型轉換為較小的類型，可能導致資料遺失
+g:\我的雲端硬碟\junior\cg\107062309_as1\107062309_as1\source\main.cpp(146): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(208): note: 請參閱 'fopen' 的宣告
+g:\我的雲端硬碟\junior\cg\107062309_as1\107062309_as1\source\main.cpp(194): warning C4018: '<': signed/unsigned 不相符
+g:\我的雲端硬碟\junior\cg\107062309_as1\107062309_as1\source\main.cpp(196): warning C4018: '<': signed/unsigned 不相符
+g:\我的雲端硬碟\junior\cg\107062309_as1\107062309_as1\source\main.cpp(410): warning C4305: '+=': 從 'double' 轉換為 'GLfloat'，是由較大的類型轉換為較小的類型，可能導致資料遺失
+g:\我的雲端硬碟\junior\cg\107062309_as1\107062309_as1\source\main.cpp(412): warning C4305: '-=': 從 'double' 轉換為 'GLfloat'，是由較大的類型轉換為較小的類型，可能導致資料遺失
+g:\我的雲端硬碟\junior\cg\107062309_as1\107062309_as1\source\main.cpp(416): warning C4305: '+=': 從 'double' 轉換為 'GLfloat'，是由較大的類型轉換為較小的類型，可能導致資料遺失
+g:\我的雲端硬碟\junior\cg\107062309_as1\107062309_as1\source\main.cpp(502): warning C4305: '-=': 從 'double' 轉換為 'GLfloat'，是由較大的類型轉換為較小的類型，可能導致資料遺失
+g:\我的雲端硬碟\junior\cg\107062309_as1\107062309_as1\source\main.cpp(504): warning C4305: '+=': 從 'double' 轉換為 'GLfloat'，是由較大的類型轉換為較小的類型，可能導致資料遺失
+g:\我的雲端硬碟\junior\cg\107062309_as1\107062309_as1\source\main.cpp(555): warning C4305: '-=': 從 'double' 轉換為 'GLfloat'，是由較大的類型轉換為較小的類型，可能導致資料遺失
+g:\我的雲端硬碟\junior\cg\107062309_as1\107062309_as1\source\main.cpp(557): warning C4305: '+=': 從 'double' 轉換為 'GLfloat'，是由較大的類型轉換為較小的類型，可能導致資料遺失
+g:\我的雲端硬碟\junior\cg\107062309_as1\107062309_as1\source\main.cpp(609): warning C4305: '-=': 從 'double' 轉換為 'GLfloat'，是由較大的類型轉換為較小的類型，可能導致資料遺失
+g:\我的雲端硬碟\junior\cg\107062309_as1\107062309_as1\source\main.cpp(612): warning C4305: '+=': 從 'double' 轉換為 'GLfloat'，是由較大的類型轉換為較小的類型，可能導致資料遺失
+g:\我的雲端硬碟\junior\cg\107062309_as1\107062309_as1\source\main.cpp(614): warning C4305: '+=': 從 'double' 轉換為 'GLfloat'，是由較大的類型轉換為較小的類型，可能導致資料遺失
+g:\我的雲端硬碟\junior\cg\107062309_as1\107062309_as1\source\main.cpp(673): warning C4305: '-=': 從 'double' 轉換為 'GLfloat'，是由較大的類型轉換為較小的類型，可能導致資料遺失
+g:\我的雲端硬碟\junior\cg\107062309_as1\107062309_as1\source\main.cpp(675): warning C4305: '+=': 從 'double' 轉換為 'GLfloat'，是由較大的類型轉換為較小的類型，可能導致資料遺失
+g:\我的雲端硬碟\junior\cg\107062309_as1\107062309_as1\source\main.cpp(728): warning C4305: '-=': 從 'double' 轉換為 'GLfloat'，是由較大的類型轉換為較小的類型，可能導致資料遺失
+g:\我的雲端硬碟\junior\cg\107062309_as1\107062309_as1\source\main.cpp(730): warning C4305: '+=': 從 'double' 轉換為 'GLfloat'，是由較大的類型轉換為較小的類型，可能導致資料遺失
+g:\我的雲端硬碟\junior\cg\107062309_as1\107062309_as1\source\main.cpp(783): warning C4305: '-=': 從 'double' 轉換為 'GLfloat'，是由較大的類型轉換為較小的類型，可能導致資料遺失
+g:\我的雲端硬碟\junior\cg\107062309_as1\107062309_as1\source\main.cpp(785): warning C4305: '-=': 從 'double' 轉換為 'GLfloat'，是由較大的類型轉換為較小的類型，可能導致資料遺失
+g:\我的雲端硬碟\junior\cg\107062309_as1\107062309_as1\source\main.cpp(788): warning C4305: '+=': 從 'double' 轉換為 'GLfloat'，是由較大的類型轉換為較小的類型，可能導致資料遺失
+g:\我的雲端硬碟\junior\cg\107062309_as1\107062309_as1\source\main.cpp(871): warning C4305: '-=': 從 'double' 轉換為 'GLfloat'，是由較大的類型轉換為較小的類型，可能導致資料遺失
+g:\我的雲端硬碟\junior\cg\107062309_as1\107062309_as1\source\main.cpp(873): warning C4305: '+=': 從 'double' 轉換為 'GLfloat'，是由較大的類型轉換為較小的類型，可能導致資料遺失
+g:\我的雲端硬碟\junior\cg\107062309_as1\107062309_as1\source\main.cpp(900): warning C4305: '-=': 從 'double' 轉換為 'GLfloat'，是由較大的類型轉換為較小的類型，可能導致資料遺失
+g:\我的雲端硬碟\junior\cg\107062309_as1\107062309_as1\source\main.cpp(902): warning C4305: '+=': 從 'double' 轉換為 'GLfloat'，是由較大的類型轉換為較小的類型，可能導致資料遺失
+g:\我的雲端硬碟\junior\cg\107062309_as1\107062309_as1\source\main.cpp(929): warning C4305: '-=': 從 'double' 轉換為 'GLfloat'，是由較大的類型轉換為較小的類型，可能導致資料遺失
+g:\我的雲端硬碟\junior\cg\107062309_as1\107062309_as1\source\main.cpp(931): warning C4305: '+=': 從 'double' 轉換為 'GLfloat'，是由較大的類型轉換為較小的類型，可能導致資料遺失
+g:\我的雲端硬碟\junior\cg\107062309_as1\107062309_as1\source\main.cpp(958): warning C4305: '-=': 從 'double' 轉換為 'GLfloat'，是由較大的類型轉換為較小的類型，可能導致資料遺失
+g:\我的雲端硬碟\junior\cg\107062309_as1\107062309_as1\source\main.cpp(960): warning C4305: '+=': 從 'double' 轉換為 'GLfloat'，是由較大的類型轉換為較小的類型，可能導致資料遺失
+g:\我的雲端硬碟\junior\cg\107062309_as1\107062309_as1\source\main.cpp(1019): warning C4305: '-=': 從 'double' 轉換為 'GLfloat'，是由較大的類型轉換為較小的類型，可能導致資料遺失
+g:\我的雲端硬碟\junior\cg\107062309_as1\107062309_as1\source\main.cpp(1021): warning C4305: '+=': 從 'double' 轉換為 'GLfloat'，是由較大的類型轉換為較小的類型，可能導致資料遺失
+g:\我的雲端硬碟\junior\cg\107062309_as1\107062309_as1\source\main.cpp(1049): warning C4305: '-=': 從 'double' 轉換為 'GLfloat'，是由較大的類型轉換為較小的類型，可能導致資料遺失
+g:\我的雲端硬碟\junior\cg\107062309_as1\107062309_as1\source\main.cpp(1051): warning C4305: '+=': 從 'double' 轉換為 'GLfloat'，是由較大的類型轉換為較小的類型，可能導致資料遺失
+g:\我的雲端硬碟\junior\cg\107062309_as1\107062309_as1\source\main.cpp(1079): warning C4305: '-=': 從 'double' 轉換為 'GLfloat'，是由較大的類型轉換為較小的類型，可能導致資料遺失
+g:\我的雲端硬碟\junior\cg\107062309_as1\107062309_as1\source\main.cpp(1081): warning C4305: '+=': 從 'double' 轉換為 'GLfloat'，是由較大的類型轉換為較小的類型，可能導致資料遺失
+g:\我的雲端硬碟\junior\cg\107062309_as1\107062309_as1\source\main.cpp(1109): warning C4305: '-=': 從 'double' 轉換為 'GLfloat'，是由較大的類型轉換為較小的類型，可能導致資料遺失
+g:\我的雲端硬碟\junior\cg\107062309_as1\107062309_as1\source\main.cpp(1111): warning C4305: '+=': 從 'double' 轉換為 'GLfloat'，是由較大的類型轉換為較小的類型，可能導致資料遺失
+  正在產生程式碼
+  1955 of 1977 functions (98.9%) were compiled, the rest were copied from previous compilation.
+    6 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  已完成程式碼產生
+main.obj : warning LNK4099: 找不到 PDB 'vc141.pdb' (有 'main.obj' 或位於 'G:\我的雲端硬碟\junior\CG\107062309_AS1\107062309_AS1\VC14\Quiz Framework\Release\vc141.pdb')，當做沒有偵錯資訊，連結物件
+  Quiz Framework.vcxproj -> G:\我的雲端硬碟\junior\CG\107062309_AS1\107062309_AS1\VC14\Quiz Framework\Release\Quiz Framework.exe
